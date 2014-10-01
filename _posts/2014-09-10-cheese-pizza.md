@@ -9,7 +9,8 @@ categories: entree
 - Pizza dough
 - Italian red sauce
 - Mozarella cheese
+- Herbs
 
 ## Directions
 
-Toss the dough into a round shape.  Don't drop it.  Spread sauce.  Sprinkle cheese.  Bake.  Eat.
+Toss the dough into a round shape.  Don't drop it.  Spread sauce.  Sprinkle cheese.  Bake.  Eat. NOM. NOM. NOM.
